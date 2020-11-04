@@ -6,10 +6,10 @@ Description: Add missing features to official Onewheel App
 Maintainer: Thibaud David
 Author: Thibaud David
 Section: Tweaks
-Version: 1.2.6
-Installed-Size: 300
-MD5sum: 7344647cabedae36e1fbc0dcfa943f54
-Size: 61248
+Version: 1.2.7
+Installed-Size: 352
+MD5sum: 189cb0ef8907a28c567f31d138c5353c
+Size: 65208
 Filename: debs/onewheelenhancer.deb
 Depiction: https:///depictions/?p=com.thibauddavid.onewheel-enhancer
 

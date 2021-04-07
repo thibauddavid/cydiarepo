@@ -1,15 +1,15 @@
 Package: com.thibauddavid.onewheel-enhancer
 Name: onewheel-enhancer
-Depends: mobilesubstrate
+Depends: mobilesubstrate (>= 0.9.5000)
 Architecture: iphoneos-arm
 Description: Add missing features to official Onewheel App
 Maintainer: Thibaud David
 Author: Thibaud David
 Section: Tweaks
-Version: 1.4.0
-Installed-Size: 352
-MD5sum: 7e8f7b0b276ca5d612fcbc94ba2fd29e
-Size: 70370
+Version: 1.4.1
+Installed-Size: 384
+MD5sum: b03515f414dd8d38d89c6e8f2c228832
+Size: 70914
 Filename: debs/onewheelenhancer.deb
 Depiction: https:///depictions/?p=com.thibauddavid.onewheel-enhancer
 

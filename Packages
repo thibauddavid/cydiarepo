@@ -3,15 +3,14 @@ Name: onewheel-enhancer
 Depends: mobilesubstrate (>= 0.9.5000), net.angelxwind.appsyncunified
 Architecture: iphoneos-arm
 Description: Add missing features to official Onewheel App
-Depiction: https://thibauddavid.github.io/cydiarepo/depictions/onewheelenhancer/
 Maintainer: Thibaud David
 Author: Thibaud David
 Section: Tweaks
 Version: 1.5.1
 Installed-Size: 256
-MD5sum: 362f823c53b5b19d63cd755e2159fd01
-Size: 56900
+MD5sum: dcccda35e05d71dfc0d7d8cd81602a32
+Size: 56854
 Filename: debs/onewheelenhancer.deb
-Depiction: https://thibauddavid.github.io/cydiarepo/depictions/
+Depiction: https://thibauddavid.github.io/cydiarepo/depictions/onewheelenhancer
 
 
